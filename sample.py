@@ -1,3 +1,3 @@
 import jason
 
-print " I am new"
+print " I am new and learning"

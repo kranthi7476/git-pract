@@ -1,4 +1,4 @@
 import jason
 
 <<<<<<< HEAD
-print " I am new and enjoying"
+print " I am new and learning"
